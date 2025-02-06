@@ -5,6 +5,5 @@ StudyBuddy is a Discord bot that helps users with questions and quizzes using th
 ## Features
 
 - Responds to user queries with concise answers.
-- Generates quiz questions based on topics provided by users.
 - Interactive commands for easy user engagement.
 
